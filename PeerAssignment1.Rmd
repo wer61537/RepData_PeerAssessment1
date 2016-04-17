@@ -21,6 +21,9 @@ steps| Number of steps taking in a 5-minute interval (missing values are coded a
 date| The date on which the measurement was taken in YYYY-MM-DD format|
 interval| Identifier for the 5-minute interval in which measurement was taken|
 
+### Files
+`PeerAssignment1.R` contains code to load and analyze the activity dataset and present results.  `getData.R` is used by `PeerAssignment1.R` to load data.  All code, markdown and report files are stored at https://github.com/wer61537/RepData_PeerAssessment1.  **Note**: It is assumed that Activity.csv is in the user's current working directory.
+
 
 ## Prepare the R environment
 
